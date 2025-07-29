@@ -1,0 +1,10 @@
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\bin\Release\Squad_Rus.exe.config
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\bin\Release\Squad_Rus.exe
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\bin\Release\Squad_Rus.pdb
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\obj\Release\Squad_Rus.csproj.AssemblyReference.cache
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\obj\Release\Squad_Rus.Form1.resources
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\obj\Release\Squad_Rus.Properties.Resources.resources
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\obj\Release\Squad_Rus.csproj.GenerateResource.cache
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\obj\Release\Squad_Rus.csproj.CoreCompileInputs.cache
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\obj\Release\Squad_Rus.exe
+C:\Users\kotmu\source\repos\Squad_Rus\Squad_Rus\obj\Release\Squad_Rus.pdb
