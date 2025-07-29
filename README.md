@@ -37,4 +37,4 @@ markdown
 
 ## 📦 Скачать
 
-(Здесь ты можешь вставить ссылку на релиз, если заливаешь `.exe` в раздел [Releases](https://github.com/Sa1utik/Squad_Rus/tree/main/Squad_Rus/bin/Release))
+[Releases](https://github.com/Sa1utik/Squad_Rus/tree/main/Squad_Rus/bin/Release)
