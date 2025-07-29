@@ -37,4 +37,4 @@ markdown
 
 ## 📦 Скачать
 
-[Releases](https://github.com/Sa1utik/Squad_Rus/tree/main/Squad_Rus/bin/Release)
+[Releases](https://github.com/Sa1utik/Squad_Rus/blob/main/Squad_Rus/bin/Release/Release.zip)
